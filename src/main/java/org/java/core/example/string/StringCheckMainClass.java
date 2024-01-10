@@ -1,6 +1,6 @@
 package org.java.core.example.string;
 
-public class MainClassStringCheck {
+public class StringCheckMainClass {
     public static void main(String [] args){
 
         System.out.println("Main Class");

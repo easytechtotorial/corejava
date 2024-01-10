@@ -31,7 +31,6 @@ public class StringCheck {
         int nameLength = name.length();
         for(int i=nameLength-1; i>=0; i--){
             reverseName = reverseName+name.charAt(i);
-
         }
         System.out.print("ReverseName :"+reverseName);
     }
